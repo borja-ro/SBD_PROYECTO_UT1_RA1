@@ -1,0 +1,243 @@
+{
+  "metadata": {
+    "source": "Goodreads",
+    "search_query": "barbacoa",
+    "search_url": "https://www.goodreads.com/search?q=barbacoa&page=1",
+    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36",
+    "scraping_timestamp": "2025-11-17T23:24:04.970231",
+    "total_books_scraped": 20,
+    "selectors_used": {
+      "book_container": "tr[itemtype*=\"Book\"]",
+      "title": "a.bookTitle",
+      "author": "span[itemprop=\"author\"]",
+      "rating": "span.minirating",
+      "isbn_location": "individual book pages"
+    },
+    "rate_limiting": {
+      "pause_between_requests": "0.5-1.0 seconds",
+      "implemented": true
+    }
+  },
+  "books": [
+    {
+      "row_number": 1,
+      "title": "Barbacoa, Bomba, and Betrayal (A Caribbean Kitchen Mystery, #3)",
+      "author": "Raquel V. Reyes",
+      "rating": 3.7,
+      "ratings_count": 591,
+      "published_year": 2023,
+      "book_url": "https://www.goodreads.com/book/show/122948707-barbacoa-bomba-and-betrayal?from_search=true&from_srp=true&qid=Kcyq9xqGGz&rank=1",
+      "isbn10": null,
+      "isbn13": null
+    },
+    {
+      "row_number": 2,
+      "title": "The Tex-Mex Grill and Backyard Barbacoa Cookbook: More Than 85 Sizzling Recipes",
+      "author": "Robb Walsh",
+      "rating": 4.02,
+      "ratings_count": 47,
+      "published_year": 2010,
+      "book_url": "https://www.goodreads.com/book/show/7506325-the-tex-mex-grill-and-backyard-barbacoa-cookbook?from_search=true&from_srp=true&qid=Kcyq9xqGGz&rank=2",
+      "isbn10": null,
+      "isbn13": null
+    },
+    {
+      "row_number": 3,
+      "title": "Por qué el espacio huele a barbacoa: Y otras preguntas que solo un astronauta puede responder (No Ficción) (Spanish Edition)",
+      "author": "Tim Peake,Gemma Deza Guil(Translator)",
+      "rating": 4.18,
+      "ratings_count": 2866,
+      "published_year": 2017,
+      "book_url": "https://www.goodreads.com/book/show/43180447-por-qu-el-espacio-huele-a-barbacoa?from_search=true&from_srp=true&qid=Kcyq9xqGGz&rank=3",
+      "isbn10": null,
+      "isbn13": null
+    },
+    {
+      "row_number": 4,
+      "title": "Barbacoa",
+      "author": "Erik Orrantia",
+      "rating": 4.38,
+      "ratings_count": 8,
+      "published_year": 2014,
+      "book_url": "https://www.goodreads.com/book/show/23363151-barbacoa?from_search=true&from_srp=true&qid=Kcyq9xqGGz&rank=4",
+      "isbn10": null,
+      "isbn13": null
+    },
+    {
+      "row_number": 5,
+      "title": "Barbacoa: The Heart of Tex-Mex Barbecue",
+      "author": "Brandon Hurtado",
+      "rating": 4.47,
+      "ratings_count": 15,
+      "published_year": null,
+      "book_url": "https://www.goodreads.com/book/show/215750652-barbacoa?from_search=true&from_srp=true&qid=Kcyq9xqGGz&rank=5",
+      "isbn10": null,
+      "isbn13": null
+    },
+    {
+      "row_number": 6,
+      "title": "Mi Diario de Barbacoas: Cuaderno Único para Registrar tus Barbacoas | Apunta el Tipo de Carne o Leña Utilizada Entre Otros Detalles | Regalo Perfecto ... de las Barbacoas o Asados",
+      "author": "Diario de Barbacoa",
+      "rating": 0.0,
+      "ratings_count": 0,
+      "published_year": null,
+      "book_url": "https://www.goodreads.com/book/show/58455128-mi-diario-de-barbacoas?from_search=true&from_srp=true&qid=Kcyq9xqGGz&rank=6",
+      "isbn10": null,
+      "isbn13": null
+    },
+    {
+      "row_number": 7,
+      "title": "BuenHogar magazine, July 2004-Barbacoa Light",
+      "author": "July 2004-Barbacoa Light BuenHogar magazine",
+      "rating": 0.0,
+      "ratings_count": 0,
+      "published_year": null,
+      "book_url": "https://www.goodreads.com/book/show/130702092-buenhogar-magazine-july-2004-barbacoa-light?from_search=true&from_srp=true&qid=Kcyq9xqGGz&rank=7",
+      "isbn10": null,
+      "isbn13": null
+    },
+    {
+      "row_number": 8,
+      "title": "Mi Diario de Barbacoas: Cuaderno Único para Registrar tus Barbacoas | Apunta el Tipo de Carne o Leña Utilizada Entre Otros Detalles | Regalo Perfecto ... de las Barbacoas o Asados",
+      "author": "Diario de Barbacoa",
+      "rating": 0.0,
+      "ratings_count": 0,
+      "published_year": null,
+      "book_url": "https://www.goodreads.com/book/show/81404820-mi-diario-de-barbacoas?from_search=true&from_srp=true&qid=Kcyq9xqGGz&rank=8",
+      "isbn10": null,
+      "isbn13": null
+    },
+    {
+      "row_number": 9,
+      "title": "Mis Barbacoas Cuaderno Para Registrar tus Geniales Barbacoas: Cuaderno Único para Registrar tus Barbacoas | Apunta el Tipo de Carne o Leña Utilizada ... de las Barbacoas o Asados",
+      "author": "Diario de Barbacoa",
+      "rating": 0.0,
+      "ratings_count": 0,
+      "published_year": null,
+      "book_url": "https://www.goodreads.com/book/show/81254270-mis-barbacoas-cuaderno-para-registrar-tus-geniales-barbacoas?from_search=true&from_srp=true&qid=Kcyq9xqGGz&rank=9",
+      "isbn10": null,
+      "isbn13": null
+    },
+    {
+      "row_number": 10,
+      "title": "La barbacoa",
+      "author": "Toni García Ramón,Oscar Manresa",
+      "rating": 3.0,
+      "ratings_count": null,
+      "published_year": null,
+      "book_url": "https://www.goodreads.com/book/show/61655257-la-barbacoa?from_search=true&from_srp=true&qid=p4GwITz2t4&rank=11",
+      "isbn10": null,
+      "isbn13": null
+    },
+    {
+      "row_number": 11,
+      "title": "La barbacoa y el ahumado. Recetas rápidas y fáciles para jardín y balcón",
+      "author": "Petra Koch,David Link,Stefan Walter(Translator)",
+      "rating": 3.0,
+      "ratings_count": null,
+      "published_year": 2012,
+      "book_url": "https://www.goodreads.com/book/show/25037038-la-barbacoa-y-el-ahumado-recetas-r-pidas-y-f-ciles-para-jard-n-y-balc-n?from_search=true&from_srp=true&qid=p4GwITz2t4&rank=12",
+      "isbn10": null,
+      "isbn13": null
+    },
+    {
+      "row_number": 12,
+      "title": "Barbacoa (El Gran Libro Del Gourmet)",
+      "author": "Matthew M. Vriends,Susaeta Ediciones(Illustrator)",
+      "rating": 0.0,
+      "ratings_count": 0,
+      "published_year": null,
+      "book_url": "https://www.goodreads.com/book/show/38100060-barbacoa-el-gran-libro-del-gourmet?from_search=true&from_srp=true&qid=p4GwITz2t4&rank=13",
+      "isbn10": null,
+      "isbn13": null
+    },
+    {
+      "row_number": 13,
+      "title": "Simplísimo. Las recetas de barbacoa + fáciles del mundo",
+      "author": "Jean-François Mallet,Imma Estany(Translator)",
+      "rating": 4.33,
+      "ratings_count": 3,
+      "published_year": null,
+      "book_url": "https://www.goodreads.com/book/show/54801777-simpl-simo-las-recetas-de-barbacoa-f-ciles-del-mundo?from_search=true&from_srp=true&qid=p4GwITz2t4&rank=14",
+      "isbn10": null,
+      "isbn13": null
+    },
+    {
+      "row_number": 14,
+      "title": "Barbacoa: BBQ Recetas: Recetas BBQ para Deliciosa y Sabrosa Barbacoa",
+      "author": "Aaron Wilson,R. Romano(Translator)",
+      "rating": 5.0,
+      "ratings_count": null,
+      "published_year": null,
+      "book_url": "https://www.goodreads.com/book/show/43068535-barbacoa?from_search=true&from_srp=true&qid=p4GwITz2t4&rank=15",
+      "isbn10": null,
+      "isbn13": null
+    },
+    {
+      "row_number": 15,
+      "title": "Barbacoa (Cocina tendencias series) (Spanish Edition)",
+      "author": "Maite Rodríguez Fischer",
+      "rating": 0.0,
+      "ratings_count": 0,
+      "published_year": 2005,
+      "book_url": "https://www.goodreads.com/book/show/9390986-barbacoa-cocina-tendencias-series?from_search=true&from_srp=true&qid=p4GwITz2t4&rank=16",
+      "isbn10": null,
+      "isbn13": null
+    },
+    {
+      "row_number": 16,
+      "title": "Barbacoa: Asado a la Ciencia: El primer enfoque científico a la tradición del asado.",
+      "author": "Alejandro Medina B.,Pamela Mayorga(Editor)",
+      "rating": 5.0,
+      "ratings_count": null,
+      "published_year": 2014,
+      "book_url": "https://www.goodreads.com/book/show/23930244-barbacoa?from_search=true&from_srp=true&qid=p4GwITz2t4&rank=17",
+      "isbn10": null,
+      "isbn13": null
+    },
+    {
+      "row_number": 17,
+      "title": "Barbacoa: Nuestras 100 mejores recetas en un solo libro",
+      "author": "Naumann & Göbel Verlag",
+      "rating": 4.0,
+      "ratings_count": null,
+      "published_year": 2015,
+      "book_url": "https://www.goodreads.com/book/show/25388279-barbacoa?from_search=true&from_srp=true&qid=p4GwITz2t4&rank=18",
+      "isbn10": null,
+      "isbn13": null
+    },
+    {
+      "row_number": 18,
+      "title": "Entre brasas veggie: Del huerto a la barbacoa",
+      "author": "Juan Manuel Benayas",
+      "rating": 0.0,
+      "ratings_count": 0,
+      "published_year": null,
+      "book_url": "https://www.goodreads.com/book/show/71088730-entre-brasas-veggie?from_search=true&from_srp=true&qid=p4GwITz2t4&rank=19",
+      "isbn10": null,
+      "isbn13": null
+    },
+    {
+      "row_number": 19,
+      "title": "Una Barbacoa Peculiar: corto",
+      "author": "Frank Mulero",
+      "rating": 5.0,
+      "ratings_count": null,
+      "published_year": null,
+      "book_url": "https://www.goodreads.com/book/show/42550017-una-barbacoa-peculiar?from_search=true&from_srp=true&qid=p4GwITz2t4&rank=20",
+      "isbn10": null,
+      "isbn13": null
+    },
+    {
+      "row_number": 20,
+      "title": "Economía de Barbacoa",
+      "author": "Juan Antonio Molina Mochón",
+      "rating": 3.0,
+      "ratings_count": 2,
+      "published_year": null,
+      "book_url": "https://www.goodreads.com/book/show/103548273-econom-a-de-barbacoa?from_search=true&from_srp=true&qid=QpcsgoMETB&rank=21",
+      "isbn10": null,
+      "isbn13": null
+    }
+  ]
+}

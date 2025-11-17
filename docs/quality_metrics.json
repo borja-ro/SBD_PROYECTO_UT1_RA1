@@ -1,0 +1,50 @@
+{
+  "timestamp": "2025-11-17T23:25:55.243190",
+  "dim_book": {
+    "row_count": 31,
+    "column_count": 21,
+    "completeness": {
+      "titulo": 96.7741935483871,
+      "isbn13": 32.25806451612903,
+      "precio": 29.03225806451613,
+      "autor_principal": 96.7741935483871,
+      "anio_publicacion": 61.29032258064516
+    },
+    "validation": {
+      "fechas_iso": {
+        "valid_count": 0,
+        "valid_percentage": 0.0,
+        "total_non_null": 0
+      },
+      "idiomas_bcp47": {
+        "total_non_null": 11,
+        "valid_count": 11,
+        "valid_percentage": 100.0
+      },
+      "monedas_iso4217": {
+        "total_non_null": 9,
+        "valid_count": 9,
+        "valid_percentage": 100.0
+      },
+      "isbn13_validos": {
+        "total_non_null": 10,
+        "valid_count": 0,
+        "valid_percentage": 0.0
+      }
+    },
+    "duplicates": {
+      "book_id_duplicates": 0
+    },
+    "by_source": {
+      "goodreads": 19,
+      "googlebooks": 12
+    }
+  },
+  "book_source_detail": {
+    "row_count": 40,
+    "by_source": {
+      "goodreads": 20,
+      "googlebooks": 20
+    }
+  }
+}
